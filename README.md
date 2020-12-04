@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Julie 👋
+
+I'm currently learning programming in 19 School in Belgium, it is part of the 42 Network !
 
 <!--
 **juliedartois/juliedartois** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Julie's github stats](https://github-readme-stats.vercel.app/api?username=juliedartois)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juliedartois&theme=tokyonight)
