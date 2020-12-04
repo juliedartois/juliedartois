@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juliedartois&theme=tokyonight&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juliedartois&theme=tokyonight)
 
 
-![Julie's github stats](https://github-readme-stats.vercel.app/api?username=juliedartois&count_private=true?theme=radical)
+![Julie's github stats](https://github-readme-stats.vercel.app/api?username=juliedartois&count_private=true?theme=tokyonight)
