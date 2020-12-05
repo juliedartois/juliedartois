@@ -1,6 +1,6 @@
 ### Hi, I'm Julie 👋
 
-I'm currently learning programming in 19 School in Belgium, it is part of the 42 Network !
+I'm currently learning programming in 19 (42 Network) !
 
 <!--
 **juliedartois/juliedartois** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 -->
 
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=juliedartois&count_private=true&theme=tokyonight&show_icons=true" />
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliedartois&count_private=true&theme=tokyonight&show_icons=true" />
+	<img align="center" src="https://github-readme-stats.vercel.app/api?username=juliedartois&count_private=true&theme=tokyonight&show_icons=true" />
+	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliedartois&count_private=true&theme=tokyonight&show_icons=true" />
 </div>
