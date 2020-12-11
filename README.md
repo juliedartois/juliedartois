@@ -1,6 +1,8 @@
 ### Hi, I'm Julie 👋
 
-I'm currently learning programming in 19 (42 Network) !
+I'm currently learning programming in School 19 (42 Network).
+
+Before that, I learned web development in MolenGeek, a coding school in Brussels.
 
 <!--
 **juliedartois/juliedartois** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
